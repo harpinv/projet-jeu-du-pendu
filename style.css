@@ -1,0 +1,44 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 20px;
+    text-align: center;
+    background-color: darkkhaki;
+}
+
+#contenue {
+    width: 500px;
+    height: 325px;
+    position: relative;
+    left: 520px;
+    top: 250px;
+    background-color: blueviolet;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+h1 {
+    font-size: 30px;
+    font-weight: bolder;
+    margin: 20px;
+}
+
+p, #bloc, #para {
+    margin: 20px;
+}
+
+input {
+    width: 200px;
+    height: 30px;
+}
+
+#essayer {
+    padding: 10px;
+    background-color: lime;
+    border-radius: 20px;
+    margin: 10px;
+}
